@@ -8,7 +8,7 @@ to install the `rGithubClient`:
 ```r
 install.packages("devtools")
 require(devtools)
-install_github("rGithubClient", "brian-bot")
+install_github("brian-bot/rGithubClient")
 ```
 
 purpose is to allow users to:
